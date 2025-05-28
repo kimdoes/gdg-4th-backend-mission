@@ -8,14 +8,14 @@
 
   "banana": {
     "id": 2,
-    "name": "apple",
-    "price": 2000,
+    "name": "banana",
+    "price": 1500,
     "stock": 50
   },
 
   "bread": {
     "id": 3,
-    "name": "apple",
+    "name": "bread",
     "price": 5000,
     "stock": 200
   }

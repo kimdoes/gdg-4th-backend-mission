@@ -1,6 +1,4 @@
 package gdg.hongik.mission.Service;
 
-
-public class postOfficeService {
-
+public class in {
 }
